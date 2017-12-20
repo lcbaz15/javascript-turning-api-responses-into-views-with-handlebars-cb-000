@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Get responses from an HTTP endpoint and render them on a page with JavaScript",
   "engines": {
-    "node": "6.x",
+    "node": "8.x",
     "npm": "3.x"
   },
   "main": "index.js",
